@@ -24,5 +24,5 @@ A Python-based agent-based market simulation that models the interactions of var
 - Python 3.7+
 - `numpy`
 - `matplotlib`
-
+  ([https://www.quantseras.com/blog](https://qchftbot.streamlit.app/))
 
