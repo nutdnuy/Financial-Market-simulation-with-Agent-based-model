@@ -1,5 +1,4 @@
 # Market Simulation
-
 A Python-based agent-based market simulation that models the interactions of various agent types and their impact on market prices over time. The project provides a framework to study the dynamics of a trading market with customizable parameters for agents and trading strategies.
 
 ## Features
@@ -25,4 +24,6 @@ A Python-based agent-based market simulation that models the interactions of var
 - `numpy`
 - `matplotlib`
 - ([webapp](https://qchftbot.streamlit.app/))
+
+https://colab.research.google.com/drive/1NBqxJ67Eyfqh9t1lZ1nL36WvxzxZ-JyO?usp=sharing
 
