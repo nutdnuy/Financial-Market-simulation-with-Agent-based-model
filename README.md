@@ -25,10 +25,4 @@ A Python-based agent-based market simulation that models the interactions of var
 - `numpy`
 - `matplotlib`
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/market-simulation.git
-   cd market-simulation
 
